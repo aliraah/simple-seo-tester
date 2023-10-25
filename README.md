@@ -4,3 +4,5 @@ Simple Seo Tester is a simple app that will analyse your webpage/blog based on d
 
 You can test the app here:
 https://simple-seo-tester-mu5hhbgoy7mfjvaynr4bpw.streamlit.app/
+
+Cheers!
